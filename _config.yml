@@ -21,9 +21,9 @@ repository               : "https://sisilias.github.io/"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "IMG_1584.png"
+  avatar           : "ciko.jpg"
   name             : "Anindya Sisilia Syarif"
-  pronouns         :  "they/it"  
+  pronouns         : "She/Her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Yogyakarta, Indonesia"
   employer         : "Gadjah Mada University"
