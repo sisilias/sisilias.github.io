@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Anindya Sisilia Syarif",
+    "email": "sisilsyarief2727@gmail.com",
+    "phone": "+6287875846413",
+    "website": "https://sisilias.github.io/",
+    "summary": "Currently studying at Gadjah Mada University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Jakarta",
+      "countryCode": "IDN",
       "region": ""
     },
     "profiles": [
@@ -34,7 +34,7 @@
   "education": [
     {
       "institution": "Gadjah Mada University",
-      "area": "Ph.D in Version Control Theory",
+      "area": "B.S. in Science",
       "studyType": "",
       "startDate": "2022",
       "endDate": "2026",
@@ -42,7 +42,7 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "Gadjah Mada University",
       "area": "M.S. in Jekyll",
       "studyType": "",
       "startDate": "",
@@ -51,7 +51,7 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "Gadjah Mada University",
       "area": "B.S. in GitHub",
       "studyType": "",
       "startDate": "",
